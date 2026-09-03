@@ -1,1 +1,1 @@
-console.log(Cambio de Rosa);
+funcion corregirHeader(){ return Header corregido por Rosa;}
